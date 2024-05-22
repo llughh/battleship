@@ -39,10 +39,3 @@ Este repositorio contiene una implementación del clásico juego de "Hundir la F
 - Dos procesos hijos realizan disparos aleatorios por turnos.
 - Los disparos se registran en `disparos.txt`.
 
-## Contribuciones
-
-Las contribuciones son bienvenidas. Abre un issue o un pull request para discutir los cambios propuestos.
-
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
